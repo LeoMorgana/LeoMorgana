@@ -27,3 +27,18 @@ I like to ensure datasets aren't just massive, but scientifically and legally ro
 | **Databases** | `PostgreSQL` `MongoDB` |
 | **QA & Testing** | `Jest` `Cypress` `Playwright` `K6 (Load Testing)` `Zod/Joi` |
 | **DevOps & Cloud** | `Docker` `GitHub Actions` `CI/CD` `AWS (Lambda)` |
+
+### 🛠️ Technical Stack
+
+![Frontend](https://img.shields.io/badge/Frontend-React%20%7C%20Redux%20%7C%20Tailwind%20%7C%20D3.js-blue)
+![Backend](https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20Fastify%20%7C%20Redis-green)
+![Databases](https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20MongoDB-lightgrey)
+![QA](https://img.shields.io/badge/QA%20%26%20Testing-Jest%20%7C%20Cypress%20%7C%20Playwright%20%7C%20K6%20%7C%20Zod-orange)
+![DevOps](https://img.shields.io/badge/DevOps-Docker%20%7C%20GitHub%20Actions%20%7C%20AWS%20Lambda-blueviolet)
+
+---
+
+### 📊 GitHub Stats
+| My Tech Stats | Most Used Languages |
+| :--- | :--- |
+| ![Leonie's GitHub stats](https://github-readme-stats.vercel.app/api?username=DEIN_USER_NAME&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN_USER_NAME&layout=compact&theme=radical) |
