@@ -1,5 +1,3 @@
-# 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Leonie Morgan | Software Engineer & Data Validation Specialist
-
 **Precision Engineering | Data Integrity | German-British Roots**
 *“Bringing Welsh heart and German precision to the world of data validation.”*
 
